@@ -20,4 +20,4 @@ The default branch is ```development```, so make sure you contribute only on thi
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3. Please find more info in our [license document](LICENSE.md).
+This project is licensed under the **GNU GENERAL PUBLIC LICENSE**, Version 3. Please find more info in our [license document](LICENSE.md).
